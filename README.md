@@ -103,6 +103,10 @@ Sales by Category
 
 ---
 
+## 📸 Task 3 Dashboard Preview
+
+![Task 3 Dashboard](images/task3_dashboard.png)
+
 ## 🚀 Key Insights
 
 * Technology category generates highest sales
