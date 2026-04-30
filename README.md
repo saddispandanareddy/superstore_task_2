@@ -88,16 +88,35 @@ The goal is to clean raw data, extract meaningful insights, and build a professi
 
 ---
 
+## 📊 Task 3: Product Deep-Dive Analysis (Power BI)
+
+In this task, I performed a detailed analysis of product performance to identify profitability patterns and business insights.
+
+---
+
+### Key Visualizations:
+Scatter Plot (Sales vs Profit by Sub-Category)
+Top Performing Sub-Categories
+Lowest Performing Sub-Categories
+Profit vs Loss Distribution
+Sales by Category
+
+---
+
 ## 🚀 Key Insights
 
 * Technology category generates highest sales
 * Some orders result in losses despite high sales
 * Regional performance varies significantly
+* Discounts negatively impact profitability
+* Some sub-categories generate losses due to heavy discounts, indicating the need for better pricing and discount strategies.
 
 ---
+
 
 ## 📌 Conclusion
 
 This project demonstrates how raw data can be transformed into meaningful insights using data cleaning, feature engineering, and visualization techniques.
 
+It also highlights the importance of data-driven decision making in business analytics.
 ---
