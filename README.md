@@ -159,3 +159,9 @@ This project demonstrates how raw data can be transformed into meaningful insigh
 It also highlights the importance of data-driven decision-making in business analytics.
 
 ---
+
+## 👩‍💻 Author
+
+**Spandana Reddy**
+
+---
